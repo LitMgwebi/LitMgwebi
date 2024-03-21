@@ -1,14 +1,30 @@
 ![github-header-image(5)](https://github.com/LitMgwebi/LitMgwebi/assets/29978279/041481c7-2779-4045-9dd0-5968cb8eaf18)
- 
 
-![dotnet](https://github.com/LitMgwebi/LitMgwebi/assets/29978279/257c94aa-d1de-43bb-aaae-602a230c690c)<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>.NET</title><path d="M24 8.77h-2.468v7.565h-1.425V8.77h-2.462V7.53H24zm-6.852 7.565h-4.821V7.53h4.63v1.24h-3.205v2.494h2.953v1.234h-2.953v2.604h3.396zm-6.708 0H8.882L4.78 9.863a2.896 2.896 0 0 1-.258-.51h-.036c.032.189.048.592.048 1.21v5.772H3.157V7.53h1.659l3.965 6.32c.167.261.275.442.323.54h.024c-.04-.233-.06-.629-.06-1.185V7.529h1.372zm-8.703-.693a.868.829 0 0 1-.869.829.868.829 0 0 1-.868-.83.868.829 0 0 1 .868-.828.868.829 0 0 1 .869.829Z"/></svg>
-
-![dotenv](https://github.com/LitMgwebi/LitMgwebi/assets/29978279/8c9ce243-2366-49c3-bb87-b85be8cb2a58)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LitMgwebi&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+ - :octocat: I'm a seasoned Software Developer specializing in Web Development
+ - :joystick: Currently working on [Helping Hands](https://github.com/LitMgwebi/HelpingHands_V2)
+ - :seedling: Aspiring Data analyst (Someone teach me Python and R :sob:)
 
 
+  
+## Connect with me:
+<a href="https://www.linkedin.com/in/lithi-mgwebi-a976ba183/"><img src="https://github.com/LitMgwebi/LitMgwebi/assets/29978279/1208b754-2bf4-4d8c-8bb4-4dd9e3a0c0d3" width="40"/></a>
+<a href=""><img src="https://github.com/LitMgwebi/LitMgwebi/assets/29978279/8c04d400-b1d2-4110-8f75-749adbc7e1d2" width="40"/></a>
+<a href=""><img src="https://github.com/LitMgwebi/LitMgwebi/assets/29978279/6168cd52-7f0b-4850-a97d-daf8de17f471" width="40"/></a>
+
+## Languages and Tools:
+<img src="https://github.com/LitMgwebi/LitMgwebi/assets/29978279/d4218fcf-2c04-42fb-93d5-a56eafdcf1ca" width="40"/>
+<img src="https://github.com/LitMgwebi/LitMgwebi/assets/29978279/5b8ec47e-c092-4cc4-844a-cde1954c151c" width="40"/>
+<img src="https://github.com/LitMgwebi/LitMgwebi/assets/29978279/3c68efac-85f1-4c07-b75f-96812b83b810" width="40"/>
+<img src="https://github.com/LitMgwebi/LitMgwebi/assets/29978279/60552dfa-884e-4d3e-ac52-a2e62ecb1ee8" width="40"/>
+<img src="https://github.com/LitMgwebi/LitMgwebi/assets/29978279/eae625eb-2cdb-4a4d-a8ac-cccdd3ddf364" width="40"/>
+<img src="https://github.com/LitMgwebi/LitMgwebi/assets/29978279/36385a2b-9cf2-485a-b2eb-b106269175b8" width="40"/>
+<img src="https://github.com/LitMgwebi/LitMgwebi/assets/29978279/edc76a03-9764-4113-84bb-d9e3a56ae53d" width="40"/>
+<img src="https://github.com/LitMgwebi/LitMgwebi/assets/29978279/5d334842-ff80-4cba-a45f-16b035d68eb0" width="40"/>
+<img src="https://github.com/LitMgwebi/LitMgwebi/assets/29978279/6b250f5e-6713-425e-94dc-6798cb960d77" width="40"/>
+<img src="https://github.com/LitMgwebi/LitMgwebi/assets/29978279/930edb3e-bf29-437c-834d-0c143b56fd9f" width="40"/>
+<img src="https://github.com/LitMgwebi/LitMgwebi/assets/29978279/b3a3821f-bc60-4b14-b385-8eca53fdef6b" width="40"/>
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LitMgwebi)](https://github.com/anuraghazra/github-readme-stats)  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LitMgwebi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
