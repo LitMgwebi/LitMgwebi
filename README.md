@@ -1,2 +1,1 @@
-
-![github-header-image(1)](https://github.com/LitMgwebi/LitMgwebi/assets/29978279/953addf9-d36f-4778-b2e5-0c9e1cbd8efe)
+![github-header-image(2)](https://github.com/LitMgwebi/LitMgwebi/assets/29978279/32a667ad-368c-449c-8a48-a7014e89c715)
