@@ -8,17 +8,14 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LitMgwebi&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-<br/>
 
-## Connect with me:
+### Connect with me:
 <a href="https://www.linkedin.com/in/lithi-mgwebi-a976ba183/"><img src="https://github.com/LitMgwebi/LitMgwebi/assets/29978279/1208b754-2bf4-4d8c-8bb4-4dd9e3a0c0d3" width="40"/></a>
 <a href=""><img src="https://github.com/LitMgwebi/LitMgwebi/assets/29978279/8c04d400-b1d2-4110-8f75-749adbc7e1d2" width="40"/></a>
 <a href=""><img src="https://github.com/LitMgwebi/LitMgwebi/assets/29978279/6168cd52-7f0b-4850-a97d-daf8de17f471" width="40"/></a>
 
-<br/>
-<br/>
 
-## Languages and Tools:
+### Languages and Tools:
 <img src="https://github.com/LitMgwebi/LitMgwebi/assets/29978279/d4218fcf-2c04-42fb-93d5-a56eafdcf1ca" width="40"/>
 <img src="https://github.com/LitMgwebi/LitMgwebi/assets/29978279/5b8ec47e-c092-4cc4-844a-cde1954c151c" width="40"/>
 <img src="https://github.com/LitMgwebi/LitMgwebi/assets/29978279/3c68efac-85f1-4c07-b75f-96812b83b810" width="40"/>
@@ -31,6 +28,4 @@
 <img src="https://github.com/LitMgwebi/LitMgwebi/assets/29978279/930edb3e-bf29-437c-834d-0c143b56fd9f" width="40"/>
 <img src="https://github.com/LitMgwebi/LitMgwebi/assets/29978279/b3a3821f-bc60-4b14-b385-8eca53fdef6b" width="40"/>
 
-
-<br/>
 <br/>
