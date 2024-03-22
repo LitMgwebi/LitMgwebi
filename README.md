@@ -4,12 +4,19 @@
  - :joystick: Currently working on [Helping Hands](https://github.com/LitMgwebi/HelpingHands_V2)
  - :seedling: Aspiring Data analyst (Someone teach me Python and R :sob:)
 
-
+<hr/>
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LitMgwebi&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<br/>
+
 ## Connect with me:
 <a href="https://www.linkedin.com/in/lithi-mgwebi-a976ba183/"><img src="https://github.com/LitMgwebi/LitMgwebi/assets/29978279/1208b754-2bf4-4d8c-8bb4-4dd9e3a0c0d3" width="40"/></a>
 <a href=""><img src="https://github.com/LitMgwebi/LitMgwebi/assets/29978279/8c04d400-b1d2-4110-8f75-749adbc7e1d2" width="40"/></a>
 <a href=""><img src="https://github.com/LitMgwebi/LitMgwebi/assets/29978279/6168cd52-7f0b-4850-a97d-daf8de17f471" width="40"/></a>
+
+<br/>
+<br/>
 
 ## Languages and Tools:
 <img src="https://github.com/LitMgwebi/LitMgwebi/assets/29978279/d4218fcf-2c04-42fb-93d5-a56eafdcf1ca" width="40"/>
@@ -25,6 +32,5 @@
 <img src="https://github.com/LitMgwebi/LitMgwebi/assets/29978279/b3a3821f-bc60-4b14-b385-8eca53fdef6b" width="40"/>
 
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LitMgwebi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LitMgwebi&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<br/>
